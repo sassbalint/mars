@@ -1,0 +1,41 @@
+Dear NASA,
+
+Perseverance's landing on Mars is a great achievement of humankind!
+
+I check your site regularly and if I am not mistaken,
+the time Perseverance have spent on Mars
+-- see "SOLS ON MARS" at the bottom of
+https://mars.nasa.gov/mars2020 page -- is wrong.
+
+Please consider my calculation below
+and look at the attached screenshot it is based on here:
+XXX XXX XXX
+
+Perseverance landed: Feb. 18, 2021, 3:55 pm EST
+
+at the moment of taking the screenshot
+"sols on mars" as shown on your site is: 10 sol 8h 20m 41s
+
+according to wikipedia one sol is: 24h 39m 35s
+
+10 sol 8h 20m 41s =
+10 * (24h 39m 35s) + 8h 20m 41s =
+10 day 14h 56m 31s
+
+Feb. 18, 2021, 3:55 pm EST
++ 10 day 14h 56m 31s
+= Mar. 1, 2021, 6:51 am EST
+
+but at the moment of taking the screenshot
+https://time.is/en/EST shows
+Feb. 28. 2021, 2:34 pm EST
+
+So there seems to be quite a big difference.
+What do you think?
+
+If maybe my calculation is erroneous, show me where, please.
+
+Thank you and keep up the good work:
+Bálint Sass
+Budapest, Hungary
+
