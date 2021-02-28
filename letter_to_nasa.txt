@@ -9,7 +9,7 @@ https://mars.nasa.gov/mars2020 page -- is wrong.
 
 Please consider my calculation below
 and look at the attached screenshot it is based on here:
-XXX XXX XXX
+https://github.com/sassbalint/mars/blob/main/perseverance_sols_on_mars.png
 
 Perseverance landed: Feb. 18, 2021, 3:55 pm EST
 
